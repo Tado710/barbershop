@@ -388,7 +388,7 @@ body {
 }
 .form__area {
   resize: none;
-  padding: 0 .625rem;
+  padding: .625rem;
   border-bottom: .125rem solid #121212
 }
 .bottom-footer__container {
